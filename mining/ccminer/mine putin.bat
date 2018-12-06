@@ -1,0 +1,1 @@
+ccminer.exe -a quark -o stratum+tcp://mining.putin.org:4033 -u AcmpqXViWUXNroqVNYRdKjKrFM6PNa1oTM -D

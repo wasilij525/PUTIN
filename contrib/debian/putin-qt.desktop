@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=putin
+Comment=putin P2P Cryptocurrency
+Comment[fr]=putin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=putin, eşten eşe kriptografik sanal para birimi
+Exec=putin-qt %u
+Terminal=false
+Type=Application
+Icon=putin128
+MimeType=x-scheme-handler/putin;
+Categories=Office;Finance;

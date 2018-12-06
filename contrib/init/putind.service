@@ -1,0 +1,26 @@
+[Unit]
+Description=putin's distributed currency daemon
+After=network.target
+
+[Service]
+User=putin
+Group=putin
+
+Type=forking
+PIDFile=/var/lib/putind/putind.pid
+
+ExecStart=/usr/bin/putind -daemon -pid=/var/lib/putind/putind.pid \
+          -conf=/etc/putin/putin.conf -datadir=/var/lib/putind
+
+ExecStop=-/usr/bin/putin-cli -conf=/etc/putin/putin.conf \
+         -datadir=/var/lib/putind stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

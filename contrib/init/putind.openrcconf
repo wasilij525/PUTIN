@@ -1,0 +1,26 @@
+# /etc/conf.d/putind: config file for /etc/init.d/putind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/putin/putin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/putind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/putind.pid"
+
+# Where to write putind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/putind"
+
+# User and group to own putind process
+#BITCOIND_USER="putin"
+#BITCOIND_GROUP="putin"
+
+# Path to putind executable
+#BITCOIND_BIN="/usr/bin/putind"
+
+# Nice value to run putind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
