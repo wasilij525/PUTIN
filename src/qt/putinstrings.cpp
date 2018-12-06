@@ -235,10 +235,10 @@ QT_TRANSLATE_NOOP("putin-core", ""
 QT_TRANSLATE_NOOP("putin-core", ""
 "You must specify a masternodeprivkey in the configuration. Please see "
 "documentation for help."),
-QT_TRANSLATE_NOOP("putin-core", "(77700 could be used only on mainnet)"),
+QT_TRANSLATE_NOOP("putin-core", "(57775 could be used only on mainnet)"),
 QT_TRANSLATE_NOOP("putin-core", "(default: %s)"),
 QT_TRANSLATE_NOOP("putin-core", "(default: 1)"),
-QT_TRANSLATE_NOOP("putin-core", "(must be 77700 for mainnet)"),
+QT_TRANSLATE_NOOP("putin-core", "(must be 57775 for mainnet)"),
 QT_TRANSLATE_NOOP("putin-core", "<category> can be:"),
 QT_TRANSLATE_NOOP("putin-core", "Accept command line and JSON-RPC commands"),
 QT_TRANSLATE_NOOP("putin-core", "Accept connections from outside (default: 1 if no -proxy or -connect)"),
