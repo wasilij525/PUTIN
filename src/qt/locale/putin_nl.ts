@@ -5146,8 +5146,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Je moet een masternodeprivkey opgeven in de configuratie. Raadpleeg de documentatie voor hulp.</translation>
     </message>
     <message>
-        <source>(77700 could be used only on mainnet)</source>
-        <translation>(77700 kan alleen op mainnet worden gebruikt)</translation>
+        <source>(57775 could be used only on mainnet)</source>
+        <translation>(57775 kan alleen op mainnet worden gebruikt)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -5158,8 +5158,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>(standaard: 1)</translation>
     </message>
     <message>
-        <source>(must be 77700 for mainnet)</source>
-        <translation>(moet 77700 voor mainnet zijn)</translation>
+        <source>(must be 57775 for mainnet)</source>
+        <translation>(moet 57775 voor mainnet zijn)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>

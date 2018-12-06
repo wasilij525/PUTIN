@@ -3728,8 +3728,8 @@ https://www.transifex.com/putin-project/putin-project-translations</translation>
         <translation>Você deve especificar uma masternodeprivkey na configuração. Favor verificar o manual para obter ajuda.</translation>
     </message>
     <message>
-        <source>(77700 could be used only on mainnet)</source>
-        <translation>(77700 could be used only on mainnet)</translation>
+        <source>(57775 could be used only on mainnet)</source>
+        <translation>(57775 could be used only on mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -3740,8 +3740,8 @@ https://www.transifex.com/putin-project/putin-project-translations</translation>
         <translation>(padrão: 1)</translation>
     </message>
     <message>
-        <source>(must be 77700 for mainnet)</source>
-        <translation>(deve ser 77700 para mainnet)</translation>
+        <source>(must be 57775 for mainnet)</source>
+        <translation>(deve ser 57775 para mainnet)</translation>
     </message>
     <message>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>

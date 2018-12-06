@@ -124,7 +124,7 @@ public:
         pchMessageStart[2] = 0x15;
         pchMessageStart[3] = 0x14;
         vAlertPubKey = ParseHex("0497dfcea626dca270cfe2eebf1160733b07352af966926e30058ca53dae05bbc71d64dbaa0c66e373211e324a23b361fc33e1e2dece1fb90afcefc707643a28f5");
-        nDefaultPort = 77700;
+        nDefaultPort = 57775;
         bnProofOfWorkLimit = ~uint256(0) >> 20; // putin starting difficulty is 1 / 2^12
         nSubsidyHalvingInterval = 210000;
         nMaxReorganizationDepth = 100;

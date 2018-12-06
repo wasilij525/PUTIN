@@ -5145,8 +5145,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Вы должны указать в  строке приложенный ключ. Пожалуйста, обратитесь к документации для получения справки</translation>
     </message>
     <message>
-        <source>(77700 could be used only on mainnet)</source>
-        <translation>(77700 можно использовать только в сети)</translation>
+        <source>(57775 could be used only on mainnet)</source>
+        <translation>(57775 можно использовать только в сети)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -5157,8 +5157,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>(неуплата: 1)</translation>
     </message>
     <message>
-        <source>(must be 77700 for mainnet)</source>
-        <translation>(должен быть 77700 для mainet)</translation>
+        <source>(must be 57775 for mainnet)</source>
+        <translation>(должен быть 57775 для mainet)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
